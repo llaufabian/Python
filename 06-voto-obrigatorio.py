@@ -1,5 +1,7 @@
 # Atividade - Implementar o algoritmo do voto obrigatório em Python, de acordo com o pseudo-código em portugol descrito em sala.
 
+print("Atividade - Algoritmo do Voto Obrigatório")
+
 nome = str(input("Digite o seu nome: "))
 idade = int(input("Olá! Digite a sua idade: "))
 
