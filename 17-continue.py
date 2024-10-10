@@ -23,12 +23,12 @@ numero = int(input("Digite o número: "))
 while contador < (numero*10):
     contador += 1
 
-    # Verifica se o valor de 'contador' é múltiplo de 4
+    # Verifica se o valor de 'contador' é múltiplo de 'numero'
     if (contador % numero == 0):
-        print(f"{contador} é múltiplo de {numero}!") # Se o número for múltiplo de 4, indica tal com uma mensagem ao lado do mesmo.
+        print(f"{contador} é múltiplo de {numero}!") # Se o número for múltiplo, indica tal com uma mensagem ao lado do mesmo.
         continue # Interrompe a interação atual e volta para o início
 
-    # Se o número não for múltiplo de 4, imprime o valor do contador
+    # Se o valor não for múltiplo de 'numero', imprime o valor do contador
     print(contador)
 # Após o término do loop, imprime a mensagem de finalizaçãp
 print("Fim do Programa.")
