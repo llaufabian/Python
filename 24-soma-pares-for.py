@@ -1,4 +1,4 @@
-# Atividade - Algoritmo "Soma pares for"
+# Atividade - Algoritmo "Soma pares for" - Laura Fabian, Gabrielly O., Thayná A.
 # Esse código irá calcular e exibir a soma dos números pares entre 1 e 50.
 
 # Definição de variáveis
