@@ -1,4 +1,4 @@
-# Atividade - Algoritmo "Tabuada"
+# Atividade - Algoritmo "Tabuada" - Laura Fabian, Gabrielly O., Thayná A.
 # Esse código irá calcular e exibir a tabuada de um número qualquer, inserido pelo usuário.
 
 # Definição de variáveis
